@@ -1,0 +1,6 @@
+{
+  "name": "Lanka Weather",
+  "description": "ශ්‍රී ලංකාවේ නගරවල උෂ්ණත්වය, වර්ෂාපතනය සහ ආර්ද්‍රතාවය සජීවීව පෙන්වන කාලගුණ යෙදුම.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
